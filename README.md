@@ -65,8 +65,7 @@ Flow control in TCP regulates data transmission to match the receiver's capacity
 4. **Retry Mechanism:** Resend unacknowledged packets based on the ACK check.
 
 ## Resources
--[Insturctions](https://karthikv1392.github.io/cs3301_osn/mini-projects/mp2)
-
+- [Insturctions](https://karthikv1392.github.io/cs3301_osn/mini-projects/mp2)
 - [Socket Programming Slides](https://www.csd.uoc.gr/~hy556/material/tutorials/cs556-3rd-tutorial.pdf)
 - [TCP Client-Server Example](https://github.com/nikhilroxtomar/TCP-Client-Server-Implementation-in-C)
 - [UDP Client-Server Example](https://github.com/nikhilroxtomar/UDP-Client-Server-implementation-in-C)
